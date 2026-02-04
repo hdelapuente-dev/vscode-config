@@ -1,0 +1,14 @@
+1. Instalar las extensiones automáticamente: Abre la terminal en la carpeta donde bajaste el archivo extensions.txt y ejecuta este comando mágico (en PowerShell):
+
+Get-Content extensions.txt | ForEach-Object { code --install-extension $_ }
+
+
+2. Aplicar tu configuración: Simplemente abre VS Code en el equipo nuevo, ve a tu settings.json local (como hicimos en el paso 2), borra todo su contenido y pega el texto de tu settings.json que bajaste de GitHub.
+
+En VS Code, presiona Ctrl + Shift + P.
+
+Escribe: "Preferences: Open User Settings (JSON)" y dale Enter.
+
+Haz clic derecho en la pestaña del archivo y elige "Reveal in File Explorer" (Mostrar en explorador).
+
+Verás el archivo settings.json. Cópialo.
