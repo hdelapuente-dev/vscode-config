@@ -27,5 +27,7 @@
     },
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "git.autofetch": true,
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "One Dark Pro"
 }
+
