@@ -8,5 +8,7 @@ ms-python.vscode-pylance
 ms-python.vscode-python-envs
 pkief.material-icon-theme
 ritwickdey.liveserver
+zhuangtongfa.material-theme
+
 
 
