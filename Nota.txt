@@ -11,4 +11,28 @@ Escribe: "Preferences: Open User Settings (JSON)" y dale Enter.
 
 Haz clic derecho en la pestaña del archivo y elige "Reveal in File Explorer" (Mostrar en explorador).
 
+
+Verás el archivo settings.json. Cópialo.
+
+------------------------------------------------------------------------------------------------------------------------
+Paso 1: Generar la lista de tus extensiones
+Como no puedes copiar y pegar las extensiones tal cual, vamos a crear un archivo de texto con la lista de nombres para que el otro equipo sepa cuáles instalar.
+
+Abre una terminal en tu computadora actual (PowerShell o CMD).
+
+Escribe este comando y presiona Enter:
+
+PowerShell
+code --list-extensions > extensions.txt
+Esto creará un archivo llamado extensions.txt en tu carpeta actual con todos los nombres (ej: sujan.code-blue, ritwickdey.liveserver, etc).
+
+Paso 2: Ubicar tu archivo de configuración (settings.json)
+Este es el archivo que contiene tu tema, tamaño de letra, iconos, etc.
+
+En VS Code, presiona Ctrl + Shift + P.
+
+Escribe: "Preferences: Open User Settings (JSON)" y dale Enter.
+
+Haz clic derecho en la pestaña del archivo y elige "Reveal in File Explorer" (Mostrar en explorador).
+
 Verás el archivo settings.json. Cópialo.
