@@ -1,3 +1,5 @@
+azemoh.one-monokai
+eliverlara.andromeda
 github.copilot
 github.copilot-chat
 ms-python.debugpy
@@ -6,4 +8,5 @@ ms-python.vscode-pylance
 ms-python.vscode-python-envs
 pkief.material-icon-theme
 ritwickdey.liveserver
+
 
