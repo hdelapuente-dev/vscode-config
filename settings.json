@@ -28,6 +28,8 @@
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "git.autofetch": true,
     "explorer.confirmDelete": false,
-    "workbench.colorTheme": "One Dark Pro"
+    "workbench.colorTheme": "Andromeda Colorizer",
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1"
 }
 
