@@ -1,6 +1,9 @@
 azemoh.one-monokai
+donjayamanne.githistory
+eamodio.gitlens
 eliverlara.andromeda
-github.copilot
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
 github.copilot-chat
 ms-python.debugpy
 ms-python.python
@@ -8,7 +11,5 @@ ms-python.vscode-pylance
 ms-python.vscode-python-envs
 pkief.material-icon-theme
 ritwickdey.liveserver
-zhuangtongfa.material-theme
-
-
+usernamehw.errorlens
 
